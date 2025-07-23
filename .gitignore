@@ -1,0 +1,6 @@
+Data/
+*.log
+.env
+__pycache__/
+mvtec-autoencoder/
+.ipynb_checkpoints/
