@@ -1,4 +1,4 @@
-\# Building an Autoencoder for anomaly detection from first principles
+# Building an Autoencoder for anomaly detection from first principles
 
 
 
@@ -12,7 +12,7 @@ This repository contains the code and results for an anomaly detection pipeline 
 
 
 
-\## Project structure
+## Project structure
 
 
 
@@ -36,7 +36,7 @@ This repository contains the code and results for an anomaly detection pipeline 
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
